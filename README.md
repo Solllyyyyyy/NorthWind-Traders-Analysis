@@ -13,6 +13,24 @@ Which products were carrying the business? Which categories were strongest? Were
 
 I used Power BI to explore these questions and turn the findings into an interactive sales performance dashboard.
 
+## Dataset
+
+The dataset contains NorthWind Traders' sales information covering **July 2013 to April 2015**.
+
+The analysis includes data relating to:
+
+* **830 orders**
+* **77 products**
+* **91 customers**
+* **9 employees**
+* **3 shippers**
+* **8 product categories**
+* Product and supplier information
+* Order and sales information
+
+This gave me enough data to look at NorthWind's performance from both a sales perspective and an operational perspective, rather than focusing on revenue alone.
+
+
 ### The Analysis
 
 I looked at the business from four main angles:
