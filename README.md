@@ -16,6 +16,8 @@ I used Power BI to explore these questions and turn the findings into an interac
 ## Dataset
 
 The dataset contains NorthWind Traders' sales information covering **July 2013 to April 2015**.
+[Northwind Traders Dataset-20260426T212151Z-3-001.zip](https://github.com/user-attachments/files/33181769/Northwind.Traders.Dataset-20260426T212151Z-3-001.zip)
+
 
 The analysis includes data relating to:
 
@@ -63,6 +65,16 @@ Based on these findings, I would recommend that NorthWind:
 * Identify practices used by top-performing employees that could be replicated across the sales team.
 * Investigate weaker-performing markets to understand the reasons behind lower sales.
 * Review shipping providers based on both cost and delivery performance, rather than revenue contribution alone.
+
+[NorthWind Project Report.pdf](https://github.com/user-attachments/files/33181863/NorthWind.Project.Report.pdf)
+
+<img width="1225" height="667" alt="Screenshot 2026-10-07 174505" src="https://github.com/user-attachments/assets/4aaa8632-15e2-410b-a25c-f85702cc6924" />
+
+<img width="1197" height="725" alt="Screenshot 2026-10-07 174622" src="https://github.com/user-attachments/assets/6e2f24f6-af03-4e7e-aea3-9ac3b1092778" />
+
+<img width="1224" height="722" alt="Screenshot 2026-10-07 174600" src="https://github.com/user-attachments/assets/ac0e0d4f-bd0a-4077-ae26-5353bd7ea35e" />
+
+
 
 ### Tools
 
